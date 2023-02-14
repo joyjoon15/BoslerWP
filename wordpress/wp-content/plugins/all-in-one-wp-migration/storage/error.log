@@ -1,0 +1,6 @@
+Feb 13 2023 08:12:28
+{"Number":2,"Message":"rmdir(C:\\wamp64\\www\\wordpress\\wp-content\\plugins\\all-in-one-wp-migration\\storage\\yu89vk9cbp5m): Directory not empty","File":"C:\\wamp64\\www\\wordpress\\wp-content\\plugins\\all-in-one-wp-migration\\lib\\vendor\\servmask\\filesystem\\class-ai1wm-directory.php","Line":72}
+
+Feb 13 2023 08:12:29
+{"Number":2,"Message":"filesize(): stat failed for C:\\wamp64\\www\\wordpress\\wp-content\\plugins\\all-in-one-wp-migration\\storage\\yu89vk9cbp5m\\localhost-wordpress-20230213-081223-9h0y21.wpress","File":"C:\\wamp64\\www\\wordpress\\wp-content\\plugins\\all-in-one-wp-migration\\lib\\vendor\\servmask\\archiver\\class-ai1wm-archiver.php","Line":231}
+
